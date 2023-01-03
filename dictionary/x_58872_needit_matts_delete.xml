@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="95755fb8870021100b6eeb173cbb3520" label="Matts Delete" max_length="40" name="x_58872_needit_matts_delete" type="collection">
+        <element label="DESCRIPTION" max_length="30" name="description" type="string"/>
+        <element label="ID" max_length="40" name="id" reference="cmdb_identifier" type="integer"/>
+    </element>
+</database>
